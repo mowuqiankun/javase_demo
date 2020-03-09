@@ -1,4 +1,4 @@
-package com.zlk.com;
+package zlk.com;
 
 /**
  * @description: 继承：主要解决共性抽取

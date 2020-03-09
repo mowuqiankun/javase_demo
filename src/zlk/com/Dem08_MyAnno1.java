@@ -1,4 +1,4 @@
-package com.zlk.com;
+package zlk.com;
 
 /**
  * @description: 自定义注解
